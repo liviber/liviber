@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 a text
-- Email: rustam@example.com
+- Email: example@example.com
